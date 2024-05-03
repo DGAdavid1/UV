@@ -11,7 +11,7 @@ const allSongs = [
     title: "maneaaaaaa",
     artist: "Steze,Bomboe,RaresDTR",
     duration: "3:04",
-    src: "maneaaaaaa.mpeg",
+    src: "maneaaaaaa.mp3",
   },
   {
     id: 1,
